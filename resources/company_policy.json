@@ -1,0 +1,46 @@
+[
+    {
+        "category": "Facility",
+        "question": "Wifi Password",
+        "keywords": [
+            "wifi",
+            "password",
+            "internet",
+            "network"
+        ],
+        "answer": "The guest wifi is 'EnterMate_Guest' and the password is '12345678'."
+    },
+    {
+        "category": "Rule",
+        "question": "Guest Policy",
+        "keywords": [
+            "guest",
+            "visitor",
+            "external",
+            "outsider"
+        ],
+        "answer": "External guests are allowed but must sign in at the lobby. For security reasons, they cannot enter the artist studios without prior approval."
+    },
+    {
+        "category": "Facility",
+        "question": "Coffee Machine",
+        "keywords": [
+            "coffee",
+            "machine",
+            "kitchen",
+            "drink"
+        ],
+        "answer": "The coffee machine is located in the Sound Cup Lounge (2nd floor). Beans are refilled every morning at 9 AM."
+    },
+    {
+        "category": "Rule",
+        "question": "After Hours Access",
+        "keywords": [
+            "night",
+            "weekend",
+            "late",
+            "access"
+        ],
+        "answer": "The building is open 24/7 for employees with a valid ID card. HVAC is reduced after 10 PM to save energy."
+    }
+]
